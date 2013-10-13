@@ -1,3 +1,4 @@
+package lolek;
 public class PrimesGen {
 
 	/*
